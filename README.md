@@ -1,4 +1,4 @@
-# MahadMask Secure FIle tool
+# MahadMask Secure File tool
 
 A command-line tool for secure file operations using hybrid encryption and digital signatures.
 
